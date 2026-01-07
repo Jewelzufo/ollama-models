@@ -6,7 +6,7 @@
 
 ---
 
-The following models were ptimized for use on edge devices.
+The following models were optimized for use on edge devices. Each model listed has been tested on a Raspberry Pi 5 (8gb) device. 
 
 ## Granite-4.0-H-350M-GGUF
 
@@ -16,5 +16,6 @@ The following models were ptimized for use on edge devices.
 >>https://ollama.com/jewelzufo/unsloth_granite-4.0-h-350m-GGUF
 
 ---
+
 
 

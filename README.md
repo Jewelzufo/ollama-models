@@ -4,6 +4,8 @@
   <strong>Date</strong>: 12-04-2025  | <strong>Version</strong>: 1.1
 </details>
 
+[![Hits](https://hits.sh/github.com/Jewelzufo/ollama-models.svg?style=for-the-badge&label=Repo%20Views&color=0D1117&labelColor=1F6FEB&logo=github)](https://github.com/Jewelzufo/ollama-models)
+
 ---
 
 The following models were optimized for use on edge devices. Each model listed has been tested on a Raspberry Pi 5 (8gb) device. 

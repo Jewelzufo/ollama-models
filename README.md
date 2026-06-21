@@ -33,3 +33,13 @@ The following models were optimized for use on edge devices. Each model listed h
 <br>
 
 ---
+
+## MiniCPM5-1B
+
+![MiniCPM5 logo](https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png)
+
+**Download:** [Ollama Download](https://ollama.com/jewelzufo/MiniCPM5-1B)
+
+>**Size** *(688mb)*
+>**Quantization:** *Q4_K_M*
+>>https://ollama.com/jewelzufo/MiniCPM5-1B

@@ -36,6 +36,10 @@ The following models were optimized for use on edge devices. Each model listed h
 
 ## MiniCPM5-1B
 
+### Description 
+
+🏆 **1B-class open-source SOTA**: compared with strong open-source models in the same size class, MiniCPM5-1B reaches SOTA within this comparison set. Its advantage is most visible in agentic tool use, code generation, and difficult reasoning.
+
 ![MiniCPM5 logo](https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png)
 
 **Download:** [Ollama Download](https://ollama.com/jewelzufo/MiniCPM5-1B)

@@ -42,4 +42,3 @@ The following models were optimized for use on edge devices. Each model listed h
 
 >**Size** *(688mb)*
 >**Quantization:** *Q4_K_M*
->>https://ollama.com/jewelzufo/MiniCPM5-1B

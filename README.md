@@ -17,6 +17,11 @@ The following models were optimized for use on edge devices. Each model listed h
 >**Quantized models** *(160-685mb)*
 >>https://ollama.com/jewelzufo/unsloth_granite-4.0-h-350m-GGUF
 
+**Use cases:**
+- Pocket-sized enterprise assistant
+- Local RAG for docs and tickets
+- Function-calling agent for lightweight workflows
+
 ---
 
 
@@ -28,7 +33,11 @@ The following models were optimized for use on edge devices. Each model listed h
 
 >**Size** *(600mb)*
 >**Quantization:** *Q4_K_M*
->**Thinking?:** *Yes*
+
+**Use cases:**
+- On-device general-knowledge assistant
+- Cost-efficient reasoning API
+- Local RAG with private docs
 
 <br>
 
@@ -46,3 +55,14 @@ The following models were optimized for use on edge devices. Each model listed h
 
 >**Size** *(688mb)*
 >**Quantization:** *Q4_K_M*
+
+**Use Cases:**
+- On-device personal assistants
+- Coding Agents
+- Agentic Tool Use Workflows
+- Hybrid Reasoning
+- Long context tasks (131k context window)
+
+---
+
+<br>

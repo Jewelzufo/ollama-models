@@ -10,6 +10,18 @@
 
 The following models were optimized for use on edge devices. Each model listed has been tested on a Raspberry Pi 5 (8gb) device. 
 
+<br>
+
+## MiniCPM5-1B-SP-Translate
+
+![MiniCPM5 Translate Banner](https://github.com/Jewelzufo/ollama-models/blob/main/assets/minicpm5.png?raw=true)
+
+This modelfile checkpoint creates an English to Spanish translation Agent.
+
+[Ollama](https://ollama.com/jewelzufo/miniCPM5-1B-SP-Translate)
+
+<br>
+
 ## Granite-4.0-H-350M-GGUF
 
 ![Unsloth Granite 4.0 H 350M GGUF](https://ollama.com/assets/jewelzufo/unsloth_granite-4.0-h-350m-GGUF/fa683f7c-4665-45e6-addd-c3629f393798)
